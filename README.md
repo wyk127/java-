@@ -18,12 +18,12 @@
 	  pc.setHardDisk(disk);
 	pc.show();
 	  
------  		  int speed;
-		  int getSpeed(){
-		   return speed;
+-----   int speed;
+        int getSpeed(){
+	return speed;
 		  }
-		  public void setSpeed(int speed){
-		   this.speed=speed;
+	public void setSpeed(int speed){
+        this.speed=speed;
 		  }
   
 -----	  CPU cpu;
