@@ -17,7 +17,7 @@
 #### 二.核心方法
  
  
- ######在CPU类中
+ ###### 在CPU类中
  ----- 	  CPU cpu =new CPU();
 
 	  cpu.setSpeed(2200);
